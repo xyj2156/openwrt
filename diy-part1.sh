@@ -17,4 +17,4 @@
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
-echo 'src-git r8168 https://github.com/sbwml/package_kernel_r8168' >> feeds.conf.default
+# echo 'src-git r8168 https://github.com/sbwml/package_kernel_r8168' >> feeds.conf.default
